@@ -1,20 +1,17 @@
 [
   {
-    "postId": 1,
     "id": 1,
     "name": "Suresh",
     "email": "Suresh@sample.com",
     "profession": "Teacher"
   },
   {
-    "postId": 1,
     "id": 2,
     "name": "John",
     "email": "John@sample.com",
-    "profession": "Programming"
+    "profession": "Clerk"
   },
   {
-    "postId": 1,
     "id": 3,
     "name": "Sam",
     "email": "Sam@sample.com",
