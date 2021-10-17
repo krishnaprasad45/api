@@ -1,22 +1,23 @@
 [
-   "data" : [
-   "user1" : {
-      "name": "mahesh",
-      "password": "password1",
-      "profession": "teacher",
-      "id": 1
-      },
-   "user2" : {
-      "name": "suresh",
-      "password": "password2",
-      "profession": "librarian",
-      "id": 2
-      },
-   "user3" : {
-      "name": "ramesh",
-      "password": "password3",
-      "profession": "clerk",
-      "id": 3
-      },
-  ],
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "Suresh",
+    "email": "Suresh@sample.com",
+    "profession": "Teacher"
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "John",
+    "email": "John@sample.com",
+    "profession": "Programming"
+  },
+  {
+    "postId": 1,
+    "id": 3,
+    "name": "Sam",
+    "email": "Sam@sample.com",
+    "profession": "Driver"
+  },
 ]
