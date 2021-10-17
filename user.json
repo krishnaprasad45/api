@@ -1,4 +1,6 @@
-  {
+{
+  "data":[
+    {
     "id": 1,
     "name": "Suresh",
     "email": "Suresh@sample.com",
@@ -16,3 +18,5 @@
     "email": "Sam@sample.com",
     "profession": "Driver"
   }
+    ]
+}
