@@ -1,5 +1,6 @@
 {
-    "user1" : {
+    "data":[
+        "user1" : {
        "name" : "mahesh",
        "password" : "password1",
        "profession" : "teacher",
@@ -19,5 +20,6 @@
        "profession" : "clerk",
        "id": 3
     }
+        ]
  }
 
