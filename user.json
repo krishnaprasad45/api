@@ -1,4 +1,5 @@
-[
+{
+  "data":[
 "user1": {
 "name": "mahesh",
 "password": "password1",
@@ -16,5 +17,6 @@
 "password": "password3",
 "profession": "clerk",
 "id": 3
+},
+  ]
 }
-]
